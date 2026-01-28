@@ -1,0 +1,18 @@
+# Guess The Number Game 🎮
+
+A simple Python console-based guessing game for beginners.
+
+## Features
+- Random number generation
+- Score system
+- Timer
+- Limited number of attempts
+
+## How to Run
+1. Make sure Python is installed on your device
+2. Download the project files
+3. Run the game using:
+   python guess_game.py
+
+## Author
+Dodo
